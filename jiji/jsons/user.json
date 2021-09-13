@@ -1,6 +1,4 @@
 {
-  "model":"user",
-  "data":{
   "id": "5fbcd8cd80d95efc90da8181",
   "phone":"17688762277",
   "nickname":"176******77",
@@ -27,5 +25,4 @@
   "status": 0,
   "wechat": "$wechat",
   "tags": ["tag1","tag2"]
-}
 }
